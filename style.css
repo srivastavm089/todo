@@ -1,0 +1,59 @@
+*{
+    padding: none;
+    margin: none;
+    background-color: #000000;
+    color: white;
+}
+.section1{
+    display: flex;
+    margin-left: 5vh;
+}
+.drop-down{
+    padding: 1vh;
+}
+
+.section-2{
+    display: flex;
+    margin-left: 5vh;
+   margin-top: 2vh;
+
+}
+.section-2 .filter-btn{
+    padding: 0.5em 4em 0.5em 4em;
+    color: black;
+    background-color: white;
+}
+.section-3{
+    margin-left: 5vh;
+   margin-top: 10vh;
+}
+.input-section{
+    display: flex;
+    gap:2vh;
+
+}
+.section-4{
+
+    margin-top: 5vh;
+}
+.input{
+    height: 2em;
+    width: 35em;
+}
+.section-4 .add-btn{
+    padding: 0.5em 3em 0.5em 3em;
+    background-color: white;
+    color: black;
+
+}
+.list-container{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    gap: 2vh;
+    border: 1px solid white;
+    width: 30em;
+    margin-left: 5vh;
+    margin-top: 2vh;
+    border-radius: 5px;
+}
